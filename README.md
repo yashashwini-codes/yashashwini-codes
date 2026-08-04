@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋, I'm Yashashwini
 
-<!--
-**yashashwini-codes/yashashwini-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 BCA Graduate  
+💻 Passionate about building real-world web applications  
+🌱 Currently learning Data Structures & Algorithms and System Design  
+🎯 Looking for Software Developer opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Node.js
+- JavaScript
+- Python
+- HTML
+- CSS
+- MySQL
+- Git & GitHub
+
+---
+
+## 📌 Featured Project
+
+### AI Resume Analyzer
+- ATS Resume Analysis
+- PDF Resume Upload
+- Authentication (JWT)
+- React + Node.js + Express + MySQL
+
+Repository:
+https://github.com/yashashwini-codes/resume_analyser
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/yashashwini-n-a-92176b3a4
+- GitHub: https://github.com/yashashwini-codes
+
+⭐ Thanks for visiting my profile!
